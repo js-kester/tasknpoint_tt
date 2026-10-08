@@ -1,7 +1,7 @@
 # Tennis stroke variants only (forehand/backhand + footwork variants).
 
 [robot]
-xml = "robots/training/g1_27dof_training_tennis.xml"
+xml = "robots/training/g1_27dof_training_tt.xml"
 
 [registry]
 train_prefix = "jskester-purdue-university/csv_to_npz"
